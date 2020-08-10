@@ -1,0 +1,12 @@
+D:\GallowsServer\GallowsServer\bin\Debug\GallowsServer.exe.config
+D:\GallowsServer\GallowsServer\bin\Debug\GallowsServer.exe
+D:\GallowsServer\GallowsServer\bin\Debug\GallowsServer.pdb
+D:\GallowsServer\GallowsServer\obj\Debug\GallowsServer.csprojAssemblyReference.cache
+D:\GallowsServer\GallowsServer\obj\Debug\GallowsServer.exe
+D:\GallowsServer\GallowsServer\obj\Debug\GallowsServer.pdb
+D:\GitProjects\GallowsOnline\bin\Debug\GallowsServer.exe.config
+D:\GitProjects\GallowsOnline\bin\Debug\GallowsServer.exe
+D:\GitProjects\GallowsOnline\bin\Debug\GallowsServer.pdb
+D:\GitProjects\GallowsOnline\obj\Debug\GallowsServer.csprojAssemblyReference.cache
+D:\GitProjects\GallowsOnline\obj\Debug\GallowsServer.exe
+D:\GitProjects\GallowsOnline\obj\Debug\GallowsServer.pdb

@@ -1,0 +1,16 @@
+D:\Room\Room\bin\Debug\Room.exe.config
+D:\Room\Room\bin\Debug\Room.exe
+D:\Room\Room\bin\Debug\Room.pdb
+D:\Room\Room\obj\Debug\Room.exe
+D:\Room\Room\obj\Debug\Room.pdb
+D:\GitProjects\GallowsOnline\bin\Debug\Room.exe.config
+D:\GitProjects\GallowsOnline\bin\Debug\Room.exe
+D:\GitProjects\GallowsOnline\bin\Debug\Room.pdb
+D:\GitProjects\GallowsOnline\obj\Debug\Room.exe
+D:\GitProjects\GallowsOnline\obj\Debug\Room.pdb
+C:\Users\samse\Desktop\NetworkSolution\Room\bin\Debug\Room.exe.config
+C:\Users\samse\Desktop\NetworkSolution\Room\bin\Debug\Room.exe
+C:\Users\samse\Desktop\NetworkSolution\Room\bin\Debug\Room.pdb
+C:\Users\samse\Desktop\NetworkSolution\Room\obj\Debug\Room.csprojAssemblyReference.cache
+C:\Users\samse\Desktop\NetworkSolution\Room\obj\Debug\Room.exe
+C:\Users\samse\Desktop\NetworkSolution\Room\obj\Debug\Room.pdb
