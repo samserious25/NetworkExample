@@ -1,7 +1,7 @@
 ﻿using Telepathy;
 using UnityEngine;
 
-namespace Gallows.Client
+namespace Gallows.Server
 {
     public static class GameClient
     {

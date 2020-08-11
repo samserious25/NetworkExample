@@ -10,3 +10,9 @@ D:\GitProjects\GallowsOnline\bin\Debug\GallowsServer.pdb
 D:\GitProjects\GallowsOnline\obj\Debug\GallowsServer.csprojAssemblyReference.cache
 D:\GitProjects\GallowsOnline\obj\Debug\GallowsServer.exe
 D:\GitProjects\GallowsOnline\obj\Debug\GallowsServer.pdb
+C:\Users\samse\Desktop\NetworkSolution\ServerBalancer\bin\Debug\GallowsServer.exe.config
+C:\Users\samse\Desktop\NetworkSolution\ServerBalancer\bin\Debug\GallowsServer.exe
+C:\Users\samse\Desktop\NetworkSolution\ServerBalancer\bin\Debug\GallowsServer.pdb
+C:\Users\samse\Desktop\NetworkSolution\ServerBalancer\obj\Debug\GallowsServer.csprojAssemblyReference.cache
+C:\Users\samse\Desktop\NetworkSolution\ServerBalancer\obj\Debug\GallowsServer.exe
+C:\Users\samse\Desktop\NetworkSolution\ServerBalancer\obj\Debug\GallowsServer.pdb

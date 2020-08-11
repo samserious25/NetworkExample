@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Gallows.Room
+namespace Gallows.Server
 {
     class Program
     {

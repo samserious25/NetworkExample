@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using Telepathy;
 
-namespace Gallows.Room
+namespace Gallows.Server
 {
     public static class GameRoom
     {
-        public static Server Listener;
+        public static Telepathy.Server Listener;
         public static ServerTimer serverTimer;
         private static readonly double liveTime = 600000;
         private static List<PlayerInfo> players;
@@ -15,7 +15,7 @@ namespace Gallows.Room
         public static void Start(int port)
         {
             players = new List<PlayerInfo>();
-            Listener = new Server();
+            Listener = new Telepathy.Server();
             Listener.Start(port);
             serverTimer = new ServerTimer(liveTime);
             serverTimer.OnTick += Stop;

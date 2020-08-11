@@ -1,4 +1,4 @@
-﻿namespace Gallows.Room
+﻿namespace Gallows.Server
 {
     public class PlayerInfo
     {

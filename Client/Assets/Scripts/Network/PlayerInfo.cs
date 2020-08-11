@@ -1,4 +1,4 @@
-﻿namespace Gallows.Client
+﻿namespace Gallows.Server
 {
     public class PlayerInfo
     {

@@ -3,7 +3,7 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Gallows.Client
+namespace Gallows.Server
 {
     public class Network: MonoBehaviour
     {
@@ -11,10 +11,13 @@ namespace Gallows.Client
         public Text players;
         private ServerTimer serverTimer;
 
-        public void Connect()
+        private void Awake()
         {
             AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(MyTypeResolveEventHandler);
+        }
 
+        public void Connect()
+        {
             StartClient();
         }
 

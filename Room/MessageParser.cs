@@ -1,4 +1,4 @@
-﻿namespace Gallows.Room
+﻿namespace Gallows.Server
 {
     public static class MessageParser
     {

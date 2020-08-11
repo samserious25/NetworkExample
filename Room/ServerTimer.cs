@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Timers;
 
-namespace Gallows.Room
+namespace Gallows.Server
 {
     public class ServerTimer
     {

@@ -1,7 +1,7 @@
 ﻿using GameDevWare.Serialization;
 using System.IO;
 
-namespace Gallows.Room
+namespace Gallows.Server
 {
     public static class Parser
     {

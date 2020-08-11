@@ -12,10 +12,10 @@ namespace Gallows.Server
         {
             Console.SetWindowSize(Console.WindowWidth / 3, Console.WindowHeight);
 
-            Start();
-
             AppDomain.CurrentDomain.AssemblyResolve += new ResolveEventHandler(MyTypeResolveEventHandler);
             AppDomain.CurrentDomain.ProcessExit += new EventHandler(OnCloseApp);
+
+            Start();
 
             Console.ReadKey();
         }
